@@ -55,7 +55,7 @@ export const PROJECTS = [
     image: project4,
     description: "Lenny Drug Foundation is a non-profit organization dedicated to combating drug addiction and promoting healthier, substance-free communities.",
     technologies: ["HTML", "CSS", "Javascript", "Paystack"],
-    link: "https://my-portfolio-psi-three-25.vercel.app/"
+    link: "https://lenny-drug-foundation.vercel.app/"
   }
 ];
 
